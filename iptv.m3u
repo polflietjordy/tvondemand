@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1, --- BELGISCHE ZENDERS ---
+http://line.tivi-ott.net/T341A/FADY1C/152
+#EXTINF:-1, VTM HD
+http://line.tivi-ott.net/T341A/FADY1C/152
+#EXTINF:-1, Een HD
+http://line.tivi-ott.net/T341A/FADY1C/151
+#EXTINF:-1, Play 4 HD
+http://line.tivi-ott.net/T341A/FADY1C/156
+
+#EXTINF:-1, --- NEDERLANDSE ZENDERS ---
+http://line.tivi-ott.net/T341A/FADY1C/104
+#EXTINF:-1, NPO 1 HD
+http://line.tivi-ott.net/T341A/FADY1C/101
+#EXTINF:-1, RTL 4 HD
+http://line.tivi-ott.net/T341A/FADY1C/104
+#EXTINF:-1, SBS 6 HD
+http://line.tivi-ott.net/T341A/FADY1C/106
+
+#EXTINF:-1, --- SPORT & SERIES ---
+http://line.tivi-ott.net/T341A/FADY1C/201
+#EXTINF:-1, ESPN 1 HD
+http://line.tivi-ott.net/T341A/FADY1C/201
+#EXTINF:-1, --- OPEN ALLE SERIES ---
+http://line.tivi-ott.net/get.php?username=T341A&password=FADY1C&type=m3u_plus&output=ts&action=get_series
+
+#EXTINF:-1, --- VOLLEDIGE LIJST ---
+http://line.tivi-ott.net/get.php?username=T341A&password=FADY1C&type=m3u_plus&output=ts
